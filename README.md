@@ -49,4 +49,4 @@ A simple Java-based shopping cart system that allows users to register, manage p
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/Atexkay2000/JavaProjects>
